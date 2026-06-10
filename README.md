@@ -8,9 +8,9 @@ Designed without frameworks, TypeFlow demonstrates how powerful and polished web
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** [Add GitHub Pages Link Here]
+🔗 **Live Website:** [(https://tarak-nath-dey.github.io/TypeFlow/)]
 
-🔗 **Repository:** [Add Repository Link Here]
+🔗 **Repository:** [(https://github.com/Tarak-Nath-Dey/TypeFlow)]
 
 ---
 
@@ -195,10 +195,6 @@ in your browser.
 No installation or dependencies required.
 
 ---
-
-## Live Demo
-
-https://tarak-nath-dey.github.io/TypeFlow/
 
 ## 📈 Future Improvements
 
