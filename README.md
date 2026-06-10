@@ -196,6 +196,10 @@ No installation or dependencies required.
 
 ---
 
+## Live Demo
+
+https://tarak-nath-dey.github.io/TypeFlow/
+
 ## 📈 Future Improvements
 
 * WPM History Graph
