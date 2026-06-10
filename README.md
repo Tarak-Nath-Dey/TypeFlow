@@ -152,22 +152,6 @@ This project demonstrates:
 
 ---
 
-## 📸 Screenshots
-
-### Main Interface
-
-*Add screenshot here*
-
-### Results Dashboard
-
-*Add screenshot here*
-
-### Focus Mode
-
-*Add screenshot here*
-
----
-
 ## 🚀 Getting Started
 
 ### Clone the Repository
